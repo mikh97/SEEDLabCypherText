@@ -53,33 +53,32 @@ import java.io.BufferedReader;
         {
             // Filepath to the given ciphertext
             //
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "n", "E");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "y", "T");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "v", "A");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "x", "O");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "q", "S");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "u", "N");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "m", "I");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "h", "R");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "t", "H");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "i", "L");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "p", "D");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "a", "C");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "c", "M");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "z", "U");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "l", "W");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "b", "F");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "d", "Y");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "e", "P");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "g", "B");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "r", "G");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "s", "K");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "f", "V");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "j", "Q");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "k", "X");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "o", "J");
-            decryptor("/Users/mikhailsumawan/Desktop/cpt.txt", "w", "Z");
-
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "f", "E");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "i", "T");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "q", "A");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "n", "R");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "s", "O");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "v", "I");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "y", "N");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "j", "S");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "z", "H");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "a", "D");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "m", "L");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "u", "G");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "o", "M");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "l", "F");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "h", "U");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "e", "C");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "x", "K");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "g", "D");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "w", "B");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "b", "W");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "r", "Y");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "k", "P");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "t", "Z");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "p", "X");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "d", "J");
+            decryptor("/Users/mikhailsumawan/Desktop/cpt2.txt", "c", "Q");
 
             System.out.println("done");
         }

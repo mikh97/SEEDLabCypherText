@@ -8,7 +8,7 @@ import java.io.FileReader;
 
             // File path to the cipher text file
             // I'm using Buffer Reader used to read each of the line in the cipher text file
-            BufferedReader reader = new BufferedReader(new FileReader("/Users/mikhailsumawan/Desktop/ciphertext.txt"));
+            BufferedReader reader = new BufferedReader(new FileReader("/Users/mikhailsumawan/Desktop/ciphertext-o2.txt"));
 
             // For loop to read the line
             while (true) {
